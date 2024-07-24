@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-This is my project in module 1
+# goit-markup-hw-02
+
+This is my project in module 2
